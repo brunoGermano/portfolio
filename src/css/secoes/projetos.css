@@ -20,7 +20,7 @@
     -webkit-transition: all .3s ease;
     position: relative;            
 }
-
+/* O código: ".projetos .container-projetos .projeto:hover .informacoes-projeto" significa que quando eu fixer o hover em cima da div "informacoes-projeto" será aplicado o "opacity: 0.8"  */
 .projetos .container-projetos .projeto:hover,
 .projetos .container-projetos .projeto:hover .informacoes-projeto {
     opacity: 0.8;
@@ -41,6 +41,9 @@
     height: 100%;
     opacity: 0;    
     transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -webkit-transition: all .3s ease;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
 }

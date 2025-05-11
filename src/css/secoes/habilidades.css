@@ -35,7 +35,7 @@
 }
 
 .habilidades .container-habilidades .informacoes p {
-    font-size: 1.8rem;
+    font-size: 1.8rem; /*Equivale a 18px*/
     font-family: var(--fonte-secundaria);
 }
 

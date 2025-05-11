@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
 
 html {
-    font-size: 62.5%;
+    font-size: 62.5%; /* Esta porcentagem define o tamanho do "rem" de modo fácil pra convertermos*/
     color: var(--cor-branca);
     font-weight: 300;
     scroll-behavior: smooth;
