@@ -1,1 +1,81 @@
 # portfolio
+# Portfólio - Bruno Germano Gonçalves
+
+![Banner/Screenshot do Portfólio](link-para-sua-imagem.png) 
+<!-- Substitua pelo link de um screenshot ou banner do seu site -->
+
+[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](link-para-seu-site-online.com) 
+<!-- Substitua pelo link real do seu site publicado -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](linkedin.com/in/bruno-germano-1a130a137) 
+<!-- Substitua pelo link do seu perfil no LinkedIn -->
+
+## 📍 Sobre
+
+Bem-vindo(a) ao repositório do meu site de portfólio pessoal! Este espaço contém todo o código-fonte do site que desenvolvi para apresentar quem eu sou, minhas habilidades técnicas, projetos em que trabalhei e como entrar em contato.
+
+O objetivo principal deste site é servir como uma vitrine digital centralizada do meu trabalho e experiência como desenvolvedor.
+
+## ✨ Tecnologias Utilizadas (Neste Projeto)
+
+As principais tecnologias usadas na construção deste site foram:
+
+*   **Frontend:**
+    *   HTML5
+    *   CSS3
+    *   JavaScript (ES6+)
+    *   React.js
+*   **Outras Ferramentas:**
+    *   (Ex: Vite, Create React App, Styled Components, etc. - Adicione o que você usou)
+    *   Git & GitHub para versionamento
+
+## 🚀 Minhas Competências (Apresentadas no Site)
+
+O portfólio demonstra minha experiência com as seguintes tecnologias e áreas:
+
+*   **Frontend:** JavaScript, React, HTML, CSS
+*   **Backend & Banco de Dados:** SQL, T-SQL
+*   **Mobile:** Kotlin, Desenvolvimento Nativo Android
+*   **Outras Linguagens:** C
+
+## 🛠️ Como Rodar Localmente
+
+Se você quiser dar uma olhada no código em ação ou talvez se inspirar, siga estes passos:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git 
+    # Substitua SEU-USUARIO/SEU-REPOSITORIO pelo seu usuário e nome do repo
+    ```
+2.  **Navegue até o diretório:**
+    ```bash
+    cd SEU-REPOSITORIO 
+    # Substitua SEU-REPOSITORIO pelo nome da pasta do projeto
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install 
+    # Ou: yarn install (dependendo do seu gerenciador de pacotes)
+    ```
+4.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm start 
+    # Ou: npm run dev, yarn start, yarn dev (verifique o comando no seu package.json)
+    ```
+5.  Abra seu navegador e acesse `http://localhost:3000` (ou a porta indicada no terminal).
+
+## 👤 Autor
+
+*   **Bruno Germano Gonçalves**
+*   **GitHub:** [@SEU-USUARIO](https://github.com/SEU-USUARIO) <!-- Substitua pelo seu usuário -->
+*   **LinkedIn:** [Bruno G. Gonçalves](link-do-seu-linkedin) <!-- Substitua pelo link do seu perfil -->
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
+
+<!-- É uma boa prática adicionar um arquivo LICENSE.md ou LICENSE no seu repositório -->
+<!-- Você pode gerar um facilmente em https://choosealicense.com/ (MIT é uma boa opção) -->
+
+---
+
+Obrigado por visitar! Sinta-se à vontade para explorar o código ou entrar em contato.
