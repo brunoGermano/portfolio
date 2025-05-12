@@ -30,20 +30,17 @@ As principais tecnologias usadas na construção deste site foram:
     *   HTML5
     *   CSS3
     *   JavaScript (ES6+)
-    *   React.js
-    *   Node.js
 *   **Outras Ferramentas:**
-    *   (Ex: Vite, Create React App, Styled Components, etc. - Adicione o que você usou)
     *   Git & GitHub para versionamento
 
 ## 🚀 Minhas Competências (Apresentadas no Site)
 
 O portfólio demonstra minha experiência com as seguintes tecnologias e áreas:
 
-*   **Frontend:** JavaScript, React, HTML, CSS, Node.js
-*   **Backend & Banco de Dados:** SQL, T-SQL
+*   **Frontend:** JavaScript, React, HTML, CSS,
+*   **Backend & Banco de Dados:** SQL, T-SQL, Node.js 
 *   **Mobile:** Kotlin, Desenvolvimento Nativo Android
-*   **Outras Linguagens:** C
+*   **Outras Linguagens:** C, Java, C++
 
 ## 🛠️ Como Rodar Localmente
 
