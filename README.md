@@ -1,13 +1,17 @@
 # Portfólio - Bruno Germano Gonçalves
 
-![Banner/Screenshot do Portfólio](src/imagens/foto-perfil.png) 
+<!-- ![Banner/Screenshot do Portfólio](src/imagens/foto-perfil.png)  -->
+
+<img src="src/imagens/foto-perfil.png" 
+     alt="Foto de Perfil - Bruno Germano Gonçalves" 
+     style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
 
 [![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
 <!-- Substitua pelo link real do seu site publicado -->
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](https://linkedin.com/in/bruno-germano-1a130a137) 
 -->
-<a href="https://linkedin.com/in/bruno-germano-1a130a137" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/bruno-germano-1a130a137" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue" alt="LinkedIn">
 </a>
 
