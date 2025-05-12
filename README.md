@@ -2,9 +2,9 @@
 
 <!-- ![Banner/Screenshot do Portfólio](src/imagens/foto-perfil.png)  -->
 
-<img src="src/imagens/foto-perfil.png" 
+<img src="src/imagens/foto-perfil-circular.png" 
      alt="Foto de Perfil - Bruno Germano Gonçalves" 
-     style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+     style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
 [![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
 <!-- Substitua pelo link real do seu site publicado -->
