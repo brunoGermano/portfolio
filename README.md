@@ -4,8 +4,12 @@
 
 [![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
 <!-- Substitua pelo link real do seu site publicado -->
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](https://linkedin.com/in/bruno-germano-1a130a137) 
-
+-->
+<a href="https://linkedin.com/in/bruno-germano-1a130a137" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue" alt="LinkedIn">
+</a>
 
 ## 📍 Sobre
 
