@@ -1,13 +1,11 @@
-# portfolio
 # Portfólio - Bruno Germano Gonçalves
 
-![Banner/Screenshot do Portfólio](link-para-sua-imagem.png) 
-<!-- Substitua pelo link de um screenshot ou banner do seu site -->
+![Banner/Screenshot do Portfólio](src/imagens/foto-perfil.png) 
 
-[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](link-para-seu-site-online.com) 
+[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
 <!-- Substitua pelo link real do seu site publicado -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](linkedin.com/in/bruno-germano-1a130a137) 
-<!-- Substitua pelo link do seu perfil no LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](https://linkedin.com/in/bruno-germano-1a130a137) 
+
 
 ## 📍 Sobre
 
@@ -24,6 +22,7 @@ As principais tecnologias usadas na construção deste site foram:
     *   CSS3
     *   JavaScript (ES6+)
     *   React.js
+    *   Node.js
 *   **Outras Ferramentas:**
     *   (Ex: Vite, Create React App, Styled Components, etc. - Adicione o que você usou)
     *   Git & GitHub para versionamento
@@ -32,7 +31,7 @@ As principais tecnologias usadas na construção deste site foram:
 
 O portfólio demonstra minha experiência com as seguintes tecnologias e áreas:
 
-*   **Frontend:** JavaScript, React, HTML, CSS
+*   **Frontend:** JavaScript, React, HTML, CSS, Node.js
 *   **Backend & Banco de Dados:** SQL, T-SQL
 *   **Mobile:** Kotlin, Desenvolvimento Nativo Android
 *   **Outras Linguagens:** C
@@ -66,12 +65,12 @@ Se você quiser dar uma olhada no código em ação ou talvez se inspirar, siga 
 ## 👤 Autor
 
 *   **Bruno Germano Gonçalves**
-*   **GitHub:** [@SEU-USUARIO](https://github.com/SEU-USUARIO) <!-- Substitua pelo seu usuário -->
-*   **LinkedIn:** [Bruno G. Gonçalves](link-do-seu-linkedin) <!-- Substitua pelo link do seu perfil -->
+*   **GitHub:** [@brunoGermano](https://github.com/brunoGermano) <!-- Substitua pelo seu usuário -->
+*   **LinkedIn:** [Bruno G. Gonçalves](https://linkedin.com/in/bruno-germano-1a130a137)
 
 ## 📄 Licença
 
-Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE.md) para mais informações.
 
 <!-- É uma boa prática adicionar um arquivo LICENSE.md ou LICENSE no seu repositório -->
 <!-- Você pode gerar um facilmente em https://choosealicense.com/ (MIT é uma boa opção) -->
