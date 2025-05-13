@@ -1,0 +1,30 @@
+/* Estilos que seu cabeçalho já deve ter (exemplo) */
+#meu-cabecalho {
+    background-color: #333; /* Ou a cor que você já usa */
+    color: white;
+    padding: 15px 0;
+    width: 100%;
+    /* Outros estilos que ele já possui... */
+    transition: box-shadow 0.3s ease-in-out; /* Opcional, para transição suave da sombra */
+}
+
+/* NOVA CLASSE para o cabeçalho quando estiver fixo */
+#meu-cabecalho.fixo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; /* Garante que ocupe toda a largura */
+    z-index: 1000; /* Para ficar acima de outros conteúdos */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Opcional: sombra para destacar */
+    transition: top 0.3s ease-in-out;
+}
+
+/* NOVA CLASSE para esconder o cabeçalho quando ele está fixo mas rolamos para baixo */
+#meu-cabecalho.fixo.cabecalho-escondido {
+    top: -100%; /* Move o cabeçalho para cima, para fora da tela */
+    /* Se souber a altura exata do cabeçalho, pode usar:
+       top: -[alturaDoCabecalhoEmPixels]px;
+       Ex: top: -60px;
+       Isso pode ser mais preciso que -100% se a altura do cabeçalho for variável.
+    */
+}

@@ -20,11 +20,13 @@
   <link rel="stylesheet" href="src/css/secoes/projetos.css" />
   <link rel="stylesheet" href="src/css/secoes/footer.css" />
 
+  <link rel="stylesheet" href="src/css/menu-fixo.css">
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 
 <body>
-  <header class="header">
+  <header class="header" id="meu-cabecalho">
     <div class="container">
       <div class="row justify-content-between alinhar-itens-no-centro">
         <a href="#">
@@ -58,8 +60,11 @@
 
           <div class="redes-sociais">
             <a href="https://linkedin.com/in/bruno-germano-1a130a137" class="outer-shadow" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-            <a href="#" class="outer-shadow"><i class="fab fa-whatsapp"></i></a>
-            <a href="#" class="outer-shadow"><i class="fab fa-github"></i></a>
+            <!-- Usar o link da API do whatsapp para abrir uma conversa no WhatsApp, você precisa usar a API "Click to Chat" do WhatsApp no atributo href. O formato básico é https://wa.me/<numerocomcodigointernacional>.  -->
+            <a href="https://wa.me/5537999487840" class="outer-shadow" target="_blank"><i class="fab fa-whatsapp"></i></a>
+
+            <a href="https://github.com/brunoGermano" class="outer-shadow" target="_blank"><i class="fab fa-github"></i></a>
+
             <a href="#" class="outer-shadow"><i class="fab fa-instagram"></i></a>
           </div>
         </div>
@@ -230,13 +235,17 @@
     <div class="container">
       <h2>Me envie uma mensagem!</h2>
       <div class="redes-sociais">
-        <a href="#" class="outer-shadow"><i class="fab fa-linkedin-in"></i></a>
-        <a href="#" class="outer-shadow"><i class="fab fa-whatsapp"></i></a>
-        <a href="#" class="outer-shadow"><i class="fab fa-github"></i></a>
+        <a href="https://linkedin.com/in/bruno-germano-1a130a137" class="outer-shadow" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        
+        <a href="https://wa.me/5537999487840" class="outer-shadow" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        
+        <a href="https://github.com/brunoGermano" class="outer-shadow" target="_blank"><i class="fab fa-github"></i></a>
+
         <a href="#" class="outer-shadow"><i class="fab fa-instagram"></i></a>
       </div>
     </div>
   </footer>
+  <script type="module" src="./src/index.js"></script>
 </body>
 
 </html>
