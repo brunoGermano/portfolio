@@ -7,7 +7,7 @@
      style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
 
-[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
+[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://portfolio-eight-eta-34.vercel.app/) 
 <!-- Substitua pelo link real do seu site publicado -->
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](https://linkedin.com/in/bruno-germano-1a130a137) 
